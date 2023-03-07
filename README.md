@@ -5,8 +5,15 @@
 - [Файл script.js](script.js)
 - [Файл merge_sorting.js](merge_sorting.js)
 
+ 
+- Create a function which will create the natural number from min to max
+- Create a function which will create and return the array from n elements.
+- Create a function whith will fill array of natural numbers.
+- Sort array by increasing numbers.
+
 ## Подзадачи:
 - 1. Залача: попить кофе
 - 2. Написать функцию создания массива из n элементов 
 - 3. Создать функцию, которая генерирует целое рандомное число в диапозоне от min до  max
 - 4. Написать функцию, которая заполняет массив случайными числами
+ 
