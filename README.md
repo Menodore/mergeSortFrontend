@@ -1,5 +1,5 @@
-# Задача 1
-## Слить два отсортированных массива и показать элемент на заданной позиции
+# Task1
+## Merge two sorted arrays and show the element at a given position
 
 - [Файл index.html](index.html)
 - [Файл script.js](script.js)
@@ -11,11 +11,11 @@
 - Create a function whith will fill array of natural numbers.
 - Sort array by increasing numbers.
 
-## Подзадачи:
-- 1. Задача: попить кофе
-- 2. Написать функцию создания массива из n элементов 
-- 3. Создать функцию, которая генерирует целое рандомное число в диапазоне от min до  max
-- 4. Написать функцию, которая заполняет массив случайными числами
-- 5. Печать массива
-- 6. Решить главную задачу
-- 7. Печать конечного результата
+## Subtasks:
+- 1. Task: drink coffee
+- 2. Write a function to create an array of n elements
+- 3. Create a function that generates a random integer in the range from min to max
+- 4. Write a function that fills an array with random numbers
+- 5. Print the array
+- 6. Solve the main task
+- 7. Print the final result
